@@ -1,0 +1,137 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 7 Απρ 2016, 12:00:20 μμ
+    Author     : Αχιλλέας
+*/
+
+* {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+header {
+    color: white;
+    background-color: #CC5A02;
+    height: 152px;
+    
+}
+    
+#img1{
+    background-color: white;
+    margin: 9px;
+    float: left;
+}
+
+#a1{
+    float: right;
+}
+
+h1 {
+    padding: 20px;
+}
+
+h2 {
+    padding: 20px;
+}
+
+h3 {
+    padding: 20px;
+}
+
+p {
+    padding-left: 80px;
+}
+
+input {
+    font-size: 150%;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.page_title{
+    padding: 20px;
+}
+
+.frame{
+    margin-top: -30px;
+}
+
+.h2N1{
+    margin-top: -10px;
+}
+
+.frameN1{
+    margin-top: -30px;
+}
+
+.submit1{
+    color: #ffffff;
+    background-color: #CC5A02;
+    border: none;
+    border-radius: 5px;
+    float: left;
+    width: 140px;
+    height: 30px;
+    margin-left: 20px;
+}
+
+.submit1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 145px;
+    height: 35px;
+}
+
+#cards{
+    display: inline-block;
+    float: right;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: #000000;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    float: right;
+    width: 130px;
+    height: 30px;
+}
+#cards:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 135px;
+    height: 35px;
+}
+input#submit {
+    margin-right: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: #000000;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    float: right;
+    width: 130px;
+    height: 30px;
+}
+
+input#submit:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 135px;
+    height: 35px;
+}
+
+table {
+    margin-top: -190px;
+    border-collapse: collapse;
+}
+
+tr, td {
+    height: 40px;
+    border: 1px solid black;
+}
